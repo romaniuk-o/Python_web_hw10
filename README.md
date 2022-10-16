@@ -1,10 +1,12 @@
 
 Домашнє завдання
+
 Реалізуйте LRU кеш для Python коду, який використовує Redis.
 ---->>folder 10_1
+
 Реалізуйте сховище інформації для "Персонального помічника" за допомогою Mongo DB.
----->>folder 10_2
-Start main.py
+---->>folder 10_2   Start main.py
+
 
 Address book commands:
 """Commands format - Command meaning
