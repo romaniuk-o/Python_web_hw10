@@ -7,7 +7,7 @@
 
 Реалізуйте сховище інформації для "Персонального помічника" за допомогою Mongo DB.
 
----->>folder 10_2   Start main.py
+---->>folder 10_2   Run docker-->mongodb_container, port 27017.   Start main.py
 
 
 Address book commands:
